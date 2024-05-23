@@ -2,7 +2,7 @@ export default {
   m: {
     menuName: '菜單名稱',
     menuState: '菜單狀態',
-    icon: '圖標',
+    icon: '菜單圖標',
     menuid: '菜單id',
     menuType: '菜單類型',
     sort: '排序',
